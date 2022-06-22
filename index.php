@@ -1,5 +1,5 @@
 <!doctype html>
-<?
+<?php
 // jQuery youtube-background plugin
 // by Florian CHAPON
 // http://www.florian-chapon.fr/
@@ -8,7 +8,7 @@
 // since 20166
 // Enjoy.
 //
-// Florian 
+// Florian
 ?>
 <html>
 <title>Youtube-Background</title>
